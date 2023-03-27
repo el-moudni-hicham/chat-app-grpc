@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chat-grpc" />
+        <module name="chatGRPC" />
+        <module name="app-chat-grpc" />
       </profile>
     </annotationProcessing>
   </component>
